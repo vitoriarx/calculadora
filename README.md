@@ -1,9 +1,49 @@
 # Calculadora
 
-* Calculadora criada com Html, Css e JavaScript 
+Calculadora desenvolvida para colocar meus conhecimentos em prática. 
 
-[![2022-01-17-7.png](https://i.postimg.cc/50TbGGMr/2022-01-17-7.png)](https://postimg.cc/R67kJgh1)
+## 🚀 Começando
 
-<h2>Link para testar a funcionalidade do projeto</h2>
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-🔵 https://gallant-bohr-4b0bed.netlify.app
+Link para teste: https://vitoriarx.github.io/convert-money/
+
+
+
+### 🔧 Instalação
+ 
+
+```
+  Baixar o projeto em sua máquina 
+  Abrir com o Visual Studio Code
+```
+Até finalizar
+
+
+
+## 🛠️ Construído com
+
+Ferramentas usadas para criar o projeto:
+
+* HTML
+* CSS
+* JAVASCRIPT
+
+
+## ✒️ Autores
+
+* **Um desenvolvedor** - *Trabalho Inicial* - [vitoriarx](https://github.com/vitoriarx)
+
+Link para teste:  https://gallant-bohr-4b0bed.netlify.app
+
+## 📄 Licença
+
+Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+
+## 🎁 Expressões de gratidão
+
+* Agradeço a todos que contribuíram com o desenvolvimento do projeto
+
+
+
+⌨️ com ❤️ por [Vitoria Regina](https://gist.github.com/vitoriarx) 😊
