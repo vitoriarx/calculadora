@@ -6,7 +6,7 @@ Calculadora desenvolvida para colocar meus conhecimentos em prática.
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-Link para teste: https://vitoriarx.github.io/convert-money/
+
 
 
 
